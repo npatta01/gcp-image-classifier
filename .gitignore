@@ -1,3 +1,9 @@
 data/*
 notebooks/.ipynb_checkpoints
 
+notebooks/model.h5
+notebooks/model.pb/
+notebooks/model_fashion_h5.h5
+.ipynb_checkpoints/
+notebooks/logs/
+
